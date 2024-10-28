@@ -1,0 +1,15 @@
+Quest: Allarcas
+
+Start: Talk to ALLARCAS,  in the CHUGGERS PALACE BAR.
+He will ask you to collect 40 DRAGON SCALES
+
+Solution: Kill BLAZE WYVERNS, DRAGON WELPS and FLAREWHELPS in the SYNGE DESTRUCTION AREA 
+until you have 40 DRAGON SCALES
+go back and talk to ALLARCAS
+
+Reward: 4000 experience
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

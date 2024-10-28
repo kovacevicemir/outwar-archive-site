@@ -1,0 +1,14 @@
+Quest: VIPER VICKY
+
+Start: Talk to VIPER VICKY BARTENDER, she is in CHUGGERS PALACE BAR.
+She will ask you to kill 30 JACKHAMMER BRUTES
+
+Solution: Kill 30 JACKHAMMER BRUTES in the CONSTRUCTION SITE
+go back and talk to VIPER VICKY BARTENDER
+
+Reward: 2000 experience
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

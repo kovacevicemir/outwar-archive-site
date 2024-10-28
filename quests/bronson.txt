@@ -1,0 +1,17 @@
+Quest: Bank Notes
+
+
+Start: Talk to COUNCIL MEMBER BRONSON, in CITY HALL
+He will ask you for one of each of these:
+(security) Bank Note
+(undercover) Bank Note
+(vault) Bank Note
+
+Solution : Kill UNDERCOVER THIEF, VAULT GUARD, and SECURITY GUARD, until they drop the notes
+These mobs are found in BLACKHEARTS BANK
+
+Reward:300
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

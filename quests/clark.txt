@@ -1,0 +1,46 @@
+Quest: Coliseum/Axels Vitality
+
+Multi stage quest!!
+
+Start: Talk to CLARK, in the COLISEUM
+He will ask you to kill
+19 SORGH GOBLIN
+1 SORGH GOBLIN RAZORBACK
+
+Solution : Kill 19 SORGH GOBLIN and 1 SORGH GOBLIN RAZORBACK, these are found in the COLISEUM.
+WHen you kill the SORGH GOBLIN RAZORBACK you will aslo receive SHATTERED SORGH BLADE
+
+Go back and talk to CLARK
+
+Reward: 2000 experince
+
+Stage 2
+Talk to CLARK, in the COLISEUM
+give SHATTERED SORGH BLADE to CLARK
+
+Talk to AXEL in the COLISEUM.
+He will ask you to find 4 AXEL'S VITALITY.
+
+Solution: Kill the AXEL'S VITALITY mobs, in the all 4 DC bars : DUSTY GLASS TAVERN, CHUGGERS PALACE BAR,
+THE DRUNKEN CLAM, and the HARD IRON SALOON. These will drop 4 of AXEL'S VITALITY.
+go back and talk to AXEL in the COLISEUM.
+
+Reward: 1500 experience, plus SORGH HILT.
+
+Talk to CLARK, in the COLISEUM, give him the SORGH HILT.
+He gives you the REPAIRED SORGH BLADE
+
+Talk to AXEL in the COLISEUM, give him the REPAIRED SORGH BLADE
+
+Reward: 1500 experience, and A SORGH SWORD (+62 ATK, +10 EXP, +75 MAX RAGE)
+AXEL tells you to hand the blade in to CLARK for an AUGMENT!!
+
+Talk to CLARK, in the COLISEUM, give him the SORGH SWORD.
+
+Reward: SORGH AUGMNET [No Trade]
+Exp/Turn: 10
+Max Rage: 75
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

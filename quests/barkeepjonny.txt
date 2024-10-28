@@ -1,0 +1,14 @@
+Quest: A Tasty Brew
+
+Start: Talk to the bar Keep Jonny, he is in the DUSTY GLASS TAVERN
+He will ask you for 6 CORPION VENOM
+
+Solution: Kill SCOPRIONS in the TRAINING GROUNDS these will drop SCORPION VENOM
+when you have 6, go back and talk to BAR KEEP JONNY
+
+Reward: 45 experience
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

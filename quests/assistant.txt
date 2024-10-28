@@ -1,0 +1,15 @@
+Quest: Blackhearts money
+
+
+Start: Talk to BLACKHEART"S ASSISTANT, in BLACKHEARTS BANK
+He will ask or 1 STACK OF CASH
+
+Solution : Kill FURIOUS GAMBLERS in CASINO, until they drop 1 STACK OF CASH
+Go back and talk to BLACKHEART"S ASSISTANT, and give him the 1 STACK OF CASH, 
+
+Reward: 400 experience
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

@@ -1,0 +1,14 @@
+Quest: Borgo Stunna
+
+Start: Talk to BORGO STUNNA,  in FIGHT ARENA.
+He will ask you to kill 20 BRUTE FANATICS
+
+Solution: Kill 20 BRUTE FANATICS in the FIGHT ARENA
+go back and talk to BORGO STUNNA
+
+Reward: 5000 experience
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

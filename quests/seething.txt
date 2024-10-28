@@ -1,0 +1,16 @@
+Quest: Seething Ruenic
+
+
+Start: Talk to SEETHING RUENIC in RANCID'S WASTELAND CAMP
+He will ask for:
+1 MERCENARY GLASSES
+1 WATER BAG
+
+Solution : For the MERCENARY GLASSES, kill MERCANARY in RANCID'S WASTELAND CAMP
+For the WATER BAG, kill DESERT RAIDER in RANCID'S WASTELAND CAMP
+When you have both items, talk to  SEETHING RUENIC and give them to him
+
+Reward: 950 experience
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

@@ -1,0 +1,40 @@
+Quest: Blackheart's Lost Gold
+
+
+Start: Spawn, and talk to TRENT BLACKHEART, in BLACKHEARTS BANK
+He will ask you to bring him GOLD PIECE NR.1
+
+Solution : Kill DC ANNHILIATORS in DC ENFORCERS until they drop GOLD PIECE NR.1
+Spawn, and talk to TRENT BLACKHEART, in BLACKHEARTS BANK
+Give TRENT GOLD PIECE NR.1
+
+He will now ask for GOLD PIECE NR.2
+Kill LOCAPO WARRIERS in DOMINICS RESTAURANT, until they drop GOLD PIECE NR.2
+Spawn, and talk to TRENT BLACKHEART, in BLACKHEARTS BANK
+Give TRENT GOLD PIECE NR.1
+
+He will now ask for GOLD PIECE NR.3
+Kill DOCTOR in WAITING ROOM (HOSPITAL), until they drop GOLD PIECE NR.3
+Spawn, and talk to TRENT BLACKHEART, in BLACKHEARTS BANK
+Give TRENT GOLD PIECE NR.3
+
+He will now ask for GOLD PIECE NR.4
+Kill BODYGUARD in the NIGHTCLUB, until they drop GOLD PIECE NR.4
+Spawn, and talk to TRENT BLACKHEART, in BLACKHEARTS BANK
+Give TRENT GOLD PIECE NR.4
+
+He will now ask for GOLD PIECE NR.5
+Kill TOXIC WURM in SYNGE DESTRUCTION AREA, until they drop GOLD PIECE NR.5
+Spawn, and talk to TRENT BLACKHEART, in BLACKHEARTS BANK
+Give TRENT GOLD PIECE NR.5
+
+Reward:  Golden Blackheart Boots
+HP: 85
+Rage/Turn: 10
+Exp/Turn: 10
+Rampage: 1%
+Critical Hit: 1%
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

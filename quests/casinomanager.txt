@@ -1,0 +1,14 @@
+Quest: Casino Manager
+
+Start: Talk to the CASINO MANAGER, he is in the CASINO.
+He will ask you to bring him, FAT TONY'S HEAD
+
+Solution: Spawn and kill FAT TONY in the NIGHTCLUB until you receive FAT TONY'S HEAD
+go back and talk to CASINO MANAGER
+
+Reward: A Bomb
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

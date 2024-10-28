@@ -1,0 +1,16 @@
+Quest: Detective Files
+
+
+Start: Talk to WENDELL CUNNINGHAM, in CITY HALL
+She will give you DETECTIVE FILES, and ask you to bring them to the DC DETECTIVE
+
+Solution : Talk to the DC DETECTIVE, in DC ENFORCERS, and give him the files.
+He will give you SIGNED DETECTIVE FILES.
+Go back and talk to WENDELL CUNNINGHAM, and give her the signed files.
+
+
+Reward: 220 
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

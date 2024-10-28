@@ -1,0 +1,20 @@
+Quest: Coliseum Trader (Lion)
+
+
+Start: Talk to COLISEUM TRADER (Lion), in the COLISEUM
+He will ask for
+1 UNCUT EMERALD
+1 SURGEON SMOCK
+
+Solution : For the UNCUT EMERALD, Kill ENTHUSIAST in the COLISEUM, until they drop it
+For the SURGEON SMOCK, kill SURGERY TEAM in the HOSPITAL until they drop it
+
+Go back and talk to COLISEUM TRADER (LION), and give him the items, 
+
+Reward: LION AUG 
+
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

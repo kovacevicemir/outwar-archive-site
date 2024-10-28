@@ -1,0 +1,19 @@
+Quest: General Bechard
+
+Start: Spawn GENERAL BECHARD, in the TRAINING GROUNDS (do this by attacking the other 
+mobs in the same room)
+Once spawned talk to GENERAL BECHARD, he will ask you to kill 50 SAND TROLLS
+
+Solution: Kill  50 SAND TROLLS . These are found in the WASTELANDS 
+Once you have killed 50, respawn GENERAL BECHARD and talk to him.
+
+Reward:  Blade of Troll Slaying 
+ATK: 25
+Rage/Turn: 5
+Exp/Turn: 5
+
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

@@ -1,0 +1,15 @@
+Quest: Bob
+
+Start: Talk to Bob in the very first room of the DIAMOND CITY. He will give you a LETTER
+
+Solution: Talk to Frank in the first room of the  TRAINING GROUNDS. Then give him the LETTER
+
+Reward: 5 experience
+
+
+
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

@@ -1,0 +1,13 @@
+Quest: Shady Merchant
+
+Start: Talk to the SHADY MERCHANT, he is in the DUSTY GLASS TAVERN
+He will give you the ARMS SHIPMENT, and ask you to deliver it to GANGLORD RAVELGES:
+
+Solution: Talk to and give the ARMS SHIPMENT to GANGLORD RAVELGES, he is in RANCID'S WASTELAND CAMP
+
+Reward: 45 experience
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

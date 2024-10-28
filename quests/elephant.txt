@@ -1,0 +1,20 @@
+Quest: Coliseum Trader (elephant)
+
+
+Start: Talk to COLISEUM TRADER (ELEPHANT), in the COLISEUM
+He will ask for
+1 UNCUT EMERALD
+1 PATIENT CHART
+
+Solution : For the UNCUT EMERALD, Kill ENTHUSIAST in the COLISEUM, until they drop it
+For the PATIENT CHART, Kill RECOVERY PATIENT in the HOSPITAL, until they drop it
+
+Go back and talk to COLISEUM TRADER (ELEPHANT), and give him the items, 
+
+Reward: Elephant AUG
+
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

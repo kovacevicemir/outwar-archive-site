@@ -1,0 +1,34 @@
+Quest: Tavern Mugs
+
+This quest has 4 stages.
+
+Stage 1
+
+Start: Talk to the TAVERN REGULAR, she is in the DUSTY GLASS TAVERN
+He will give you TAVERN MUG 1, and ask you to bring it to CHUGGERS PALACE BAR
+
+Solution: Talk to , and give TAVERN MUG 1 to TAVERN REGULAR, in CHUGGERS PALACE BAR
+when you have 6, go back and talk to BAR KEEP JONNY
+
+Reward: 10 experience, and TAVEN MUG 2
+
+Stage 2
+Take TAVERN MUG 2 to TAVERN REGULAR at THE DRUNKEN CLAM
+
+Reward: 20 experience and TAVERN MUG 3
+
+Stage 3
+Take TAVERN MUG 3 to TAVERN REGULAR at HARD IRON SALOON
+
+Reward: 30 experience and TAVERN MUG 4
+
+Stage 4
+Take TAVERN MUG 4 to TAVERN REGULAR at DUSTY GLASS TAVERN (back to the start)
+
+Reward: 40 experience
+
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

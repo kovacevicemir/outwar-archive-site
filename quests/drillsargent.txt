@@ -1,0 +1,18 @@
+Quest: Drill Sargent
+
+Start: Talk to DRILL SARGENT in the TRAINING GROUNDS. He will ask you to kill:
+10 WOLVES
+3 ARMADILLOS
+
+Solution: Kill  10 WOLVES and 3 ARMADILLOS in the TRAINING GROUNDS. 
+Then go and talk to a DRILL SARGENT
+
+Reward: 24 experience
+
+
+
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

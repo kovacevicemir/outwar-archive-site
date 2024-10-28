@@ -1,0 +1,118 @@
+Quest: Talganis
+
+Multi stage quest!!
+
+Start: Talk to TALGANIS,  in the CATHEDRAL.
+He will ask you to kill:
+20 BAT
+20 PLAGUE RAT
+20 BRITTLE SKELTON
+
+Solution: Kill 20 BAT, 20 PLAGUE RAT and 20 BRITTLE SKELTON these are found in LEVEL 1 CATACOMBS
+go back and talk to TALGANIS
+
+Reward: 1200 experience
+
+
+STAGE 2
+TALGANIS will ask you to find BROTHER FALWELL
+Talk to BROTHER FALWELL, he is located in LEVEL 1 CATACOMBS.
+He will ask you for A CURE
+Talk to NURSE HEATHER in the HOSPITAL WATING ROOM, she will ask you for a PLAGUED RAT EAR
+Kill PLAGUE RAT in the CATACOMBS until you have a PLAGUED RAT EAR
+Talk to NURSE HEATHER in the HOSPITAL WATING ROOM, give her the PLAGUED RAT EAR, you will receive
+A CURE (and 750 experience)
+Talk to BROTHER FALWELL, he is located in LEVEL 1 CATACOMBS, and give him A CURE, he will give you a BRONZE KEY, to
+unlock level 2 of the CATACOMBS
+
+STAGE3
+Talk to TALGANIS,  in the CATHEDRAL
+He will ask you to kill:
+20 GHOST
+20 GHOUL FIEND
+20 DEACYED SKELTON
+
+Solution: kill 20 GHOST, 20 GHOUL FIEND and 20 DEACYED SKELTON, these are found in LEVEL 2 CATACOMBS
+go back and talk to TALGANIS
+
+Reward 3700 experience
+
+Talk to TALGANIS,  in the CATHEDRAL again.
+He will ask you for 
+20 GHOST ESSENCE
+20 GHOUL'S HEAD
+20 DECAYED BONE
+
+solution: kill GHOST, GHOUL FIEND and DEACYED SKELTON, these are found in LEVEL 2 CATACOMBS, until you have all the items.
+go back and talk to TALGANIS
+
+Reward: 3000 experience
+
+STAGE 4
+Talk to TALGANIS,  in the CATHEDRAL again
+He will ask you to kill:
+25 HORROR SKELETON
+25 CAVE TROLL
+25 DISEASED HOUND
+
+You will first need the SILVER KEY to access LEVEL 3 CATACOMBS.
+Solution: Spawn and attack PHIFER, he is located in LEVEL 2 CATACOMBS, until you get the SILVER KEY
+
+Once you have it enter LEVEL 3 CATACOMBS, and kill 25 GHOST, 25 CAVE TROLL and 25 DISEASED HOUND
+go back and talk to TALGANIS
+
+Reward: 3000 experience
+
+Talk to TALGANIS again.
+He will ask you for 
+10 DISEASED HOUND FANG
+10 CAVE TROLL HEAD
+10 HORROR BONE
+
+solution: kill DISEASED HOUND, CAVE TROLL and HORROR SKELTON, these are found in LEVEL 3 CATACOMBS, until you have all the items.
+go back and talk to TALGANIS
+
+Reward: 3000 experience.
+
+STAGE 5
+Talk to TALGANIS,  in the CATHEDRAL again.
+He will ask you to kill:
+30 DAEMON SKELETON
+30 GOBLIN
+30 FRENZIED BAT
+
+You will first need the GOLD KEY to access LEVEL 4 CATACOMBS.
+Solution: Spawn and attack RABAF, he is located in LEVEL 3 CATACOMBS, until you get the GOLD KEY
+Once you have it enter LEVEL 3 CATACOMBS, and kill:30 DAEMON SKELETON, 30 GOBLIN and 30 FRENZIED BAT
+go back and talk to TALGANIS
+
+Reward: 3000 experience
+
+Talk to TALGANIS again.
+He will ask you for 
+15 DEAMON SKELETON WING
+15 FRENZIED BAT WING
+15 GOBLIN EYE
+
+solution: kill DAEMON SKELETON, GOBLIN and FRENZIED BAT, these are found in LEVEL 4 CATACOMBS, until you have all the items.
+go back and talk to TALGANIS
+
+Reward 3000 experience
+
+
+Talk to TALGANIS again.
+He will ask you to kill HEROD THE MIGHTY
+
+Solution: Kill HEROD THE MIGHTY
+
+Reward:
+3500 experience and  
+holy augment
+10 HP
+5 Exp
+5 Rage
+1 Max Click
+25 Max Rage 
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

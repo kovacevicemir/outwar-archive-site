@@ -1,0 +1,15 @@
+Quest: Magic Beercan
+
+Start: Talk to BARON WARSAW,  in CONSTRUCTION SITE.
+He will ask you to collect the TOP PIECE OF MAP, and BOTTOM PIECE OF MAP
+
+Solution: Kill HIGH ROLLERS in the CASINO for the TOP PIECE OF MAP
+Kill MIND COMPOSERS in the SOUNDWEAVER ACADEMY for the BOTTOM PIECE OF MAP
+go back and talk to BARON WARSAW
+
+Reward: Magic Beer Can
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

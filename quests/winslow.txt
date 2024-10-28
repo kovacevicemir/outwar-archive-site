@@ -1,0 +1,31 @@
+Quest: Holy Stand
+
+
+Start: Talk to WINSLOW FARHA in the CATHEDRAL
+He will ask you for 10 CRYSTAL SHARDS
+
+Solution : Kill RATS, LARGE RATS and SPECTRES in the CATHEDRAL until you have 10 CRYSTAL SHARDS
+then talk to WINSLOW FARHA.
+He will then ask you to kill various waves of MOBS that appear in the same room as him. Kill all the mobs, and talk to
+WINSLOW FARHA to generate the next wave.
+
+Reward:
+1st MOB wave: 1000 experience and a Ghoulish Augment, 2rage
+2nd MOB wave: 1500 experience and a Death Knight Augment, 4exp and 5 luck
+3rd MOB wave: 2000 experience and an Undead Magus Augment 8 exp
+
+The last mob is MALAKI THE UNDEAD SHAMEN, kill him, and you will receive his head. Give the head to 
+WINSLOW FARHA
+
+Reward: 2000 experience
+
+You will receive a letter, give letter to RACHEON SPIRIT, in the CATHEDRAL,
+
+Reward: 1000 experience
+
+You will then get a VIAL OF PURIFICATION. Give this to Cursed Master in the CATHEDRAL
+
+Reward: 2000 exp and a Experience Augment 15exp
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

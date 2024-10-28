@@ -1,0 +1,18 @@
+Quest: Drifter Walkins
+
+Start: Talk to DRIFTER WALKINS, in the WASTELANDS.
+He will ask you to kill:
+5 BASALIKS
+5 SKELETONS
+5 DERVISHES
+
+Solution: Kill  these mobs, they are also in the WASTELANDS. Once you have killed them the required
+amount, talk to DRIFTER WALKINS
+
+Reward:  35 experience
+
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

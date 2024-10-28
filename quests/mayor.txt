@@ -1,0 +1,32 @@
+Quest: Kill Protestors/Mayors Pizza
+
+2 level quest
+
+Start: Talk to MAYOR, in CITY HALL
+He will ask you to kill 10 POPSTAR PROTESTOR
+
+Solution : Kill 10 POPSTAR PROTESTOR in the CITY HALL
+Go back and talk to MAYOR
+
+Reward: 500
+
+
+LEVEL 2
+
+Start: Talk to MAYOR, in CITY HALL
+He will ask you to fetch the MAYORS PIZZA
+
+Solution: Talk to DOMINIC at DOMINICS RESTAURANT, he will give you the MAYORS PIZZA.
+Go back and talk to the MAYOR, and give him the pizza.
+
+He will then ask you to go and kill:
+5 LOCAPO WARRIOR
+10 CAPO
+15 LOCAPO FAMILY.
+Go to DOMINICS RESTAURANT and kill the required mobs.
+Go back and talk to the MAYOR
+
+Reward: 500 experience
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

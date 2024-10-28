@@ -1,0 +1,19 @@
+Quest: Janitor Duty
+
+Mutli Level
+
+Start: Talk to DUSTY, he is in the STORAGE FACILITY.
+He will ask you to bring him, his JANITOR KEYS
+
+Solution: Kill GIGANTIC DUST MITE, and COCKROACH in the STORAGE FACILITY until you receive JANITOR KEYS
+go back and talk to DUSTY
+
+He will then ask you to bring back more keys (twice more) kill GIGANTIC DUST MITE, and COCKROACH in the STORAGE FACILITY
+for all keys for this quest
+
+Reward: 11000 experience total and a Brutality potion
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

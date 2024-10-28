@@ -1,0 +1,15 @@
+Quest: Poised Gargoyle
+
+Start: Talk to POISED GARGOYLE,  in the SYNGE DESTRUCTION AREA.
+He will ask you to kill 27 STONE BASILIKS, and collect 1 GARGOYLE WING
+
+Solution: Kill 27 STONE BASILIKS in the SYNGE DESTRUCTION AREA and CHUGGERS PALACE BAR.
+STONE BASILIKS also drop the GARGOYLE WING
+go back and talk to POISED GARGOYLE
+
+Reward: 3000 experience
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

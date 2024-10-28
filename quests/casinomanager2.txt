@@ -1,0 +1,14 @@
+Quest: Alcatraz Gangsters
+
+Start: Talk to the CASINO MANAGER, he is in the CASINO.
+He will ask you to jill 10 ALCATRAZ GANGSTERS
+
+Solution: Kill 10 ALCATRAZ GANGSTERS in the NIGHTCLUB
+go back and talk to CASINO MANAGER
+
+Reward: 1000 experience
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com

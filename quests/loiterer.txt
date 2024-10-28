@@ -1,0 +1,40 @@
+Quest: Rat Infested
+
+This quest has 3 stages.
+
+Start: Talk to A LOITERER, he is in DIAMOND CITY GATES
+He will ask you to kill:
+15 RATS
+20 LARGE RATS
+
+Solution: kill the number of rats he asked for, they are found scattered around DIAMOND CITY
+
+Reward: 1001 experience
+
+
+LEVEL 2
+
+Talk to A LOITERER again
+This time he will ask you to kill :
+20 DISEASED RATS
+
+Solution: kill,  20 DISEASED RATS these are found in the DOCKS area.
+
+Reward: 1500 exp 
+
+
+LEVEL 3
+Talk to A LOITERER again
+This time he will ask you to kill :
+26 DEADLY  RATS
+
+Solution: kill,  26 DEADLY  RATS these are found in the SEWER -RARE HOLE 3
+
+Reward: ??????
+
+
+
+
+
+Another Van Gaming Outwar Quest Guide
+http://outwarhelp.atspace.com
