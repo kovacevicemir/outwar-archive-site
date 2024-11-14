@@ -1,0 +1,9 @@
+User-agent: psbot
+Disallow: /
+
+User-agent: *
+Disallow: /servers/frontend/
+
+Crawl-delay: 10
+
+Sitemap: https://outwarhelp.webnode.page/sitemap.xml
